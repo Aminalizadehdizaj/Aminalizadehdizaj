@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Aminalizadehdizaj
+- 👀 I’m here to learn by doing
+- python is what I can automat my daily tasks🙂
