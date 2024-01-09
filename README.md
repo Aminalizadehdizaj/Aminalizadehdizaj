@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Aminalizadehdizaj
+- 👋 Hi, I’m @Amin_Alizadeh_Dizaj
 - 👀 I’m here to learn by doing
-- python is what I can automat my daily tasks🙂
+- python is what I can automate my daily tasks🙂
